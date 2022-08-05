@@ -1,8 +1,8 @@
 {
   "channel": "lfg-roles",
   "roles": {
-    "smile": "wow",
-    "sad": "PS4",
+    ":smiley:": "wow",
+    "😀": "wow",
     "steam": "Steam"
   }
 }
