@@ -1,8 +1,8 @@
 {
   "channel": "lfg-roles",
   "roles": {
-    "xbox": "smile",
-    "smile": "PS4",
+    "xbox": "smiley",
+    "smiley": "PS4",
     "steam": "Steam"
   }
 }
